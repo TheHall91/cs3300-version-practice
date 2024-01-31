@@ -12,4 +12,4 @@ print(strings)
 print("The second name on the names list is %s" % second_name)
 names.append("Jacob")
 names.append("Bertram")
-
+print(names[2])
